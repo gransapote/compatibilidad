@@ -1,0 +1,2 @@
+# compatibilidad
+Compatibilidad IE
